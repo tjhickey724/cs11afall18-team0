@@ -1,2 +1,2 @@
 # cs11afall18-team0
-This is for the CS11a class Final Project
+This is the ReadMe for the CS11a Final Project Demo
